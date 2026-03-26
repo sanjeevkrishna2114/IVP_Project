@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated frames
+frames/
+output_frames/
+extracted_frames/
+*.jpg
+*.jpeg
+*.png
+
+# Large videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+data/frames/
+data/raw/
+__pycache__/
+*.pyc

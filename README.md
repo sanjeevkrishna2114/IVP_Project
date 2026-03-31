@@ -4,6 +4,9 @@ An automated computer vision pipeline designed to analyze Rocket League Champion
 
 ---
 
+## Architecture Diagram
+<img width="1024" height="768" alt="DL Architecture Sub (1)" src="https://github.com/user-attachments/assets/12184623-0c21-4f3f-957d-c84a4ff177e3" />
+
 ## Features
 
 * **Frame Extraction**: Automated conversion of `.mp4` match videos into image sequences at a specified FPS using FFmpeg.

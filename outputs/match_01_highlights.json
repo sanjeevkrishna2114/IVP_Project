@@ -1,0 +1,316 @@
+{
+  "premium": [
+    {
+      "type": "GOAL_EXPLOSION",
+      "frame": "frame_00184.jpg",
+      "timestamp_sec": 184,
+      "clip_start": 179,
+      "clip_end": 189,
+      "label": "Premium highlight \u2014 goal explosion detected"
+    },
+    {
+      "type": "GOAL_EXPLOSION",
+      "frame": "frame_00211.jpg",
+      "timestamp_sec": 211,
+      "clip_start": 206,
+      "clip_end": 216,
+      "label": "Premium highlight \u2014 goal explosion detected"
+    }
+  ],
+  "feature": [
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_00660.jpg",
+      "timestamp_sec": 660,
+      "clip_start": 655,
+      "clip_end": 665,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_00758.jpg",
+      "timestamp_sec": 758,
+      "clip_start": 753,
+      "clip_end": 763,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_00799.jpg",
+      "timestamp_sec": 799,
+      "clip_start": 794,
+      "clip_end": 804,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_00822.jpg",
+      "timestamp_sec": 822,
+      "clip_start": 817,
+      "clip_end": 827,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_00895.jpg",
+      "timestamp_sec": 895,
+      "clip_start": 890,
+      "clip_end": 900,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_00979.jpg",
+      "timestamp_sec": 979,
+      "clip_start": 974,
+      "clip_end": 984,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_00990.jpg",
+      "timestamp_sec": 990,
+      "clip_start": 985,
+      "clip_end": 995,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_01040.jpg",
+      "timestamp_sec": 1040,
+      "clip_start": 1035,
+      "clip_end": 1045,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_01055.jpg",
+      "timestamp_sec": 1055,
+      "clip_start": 1050,
+      "clip_end": 1062,
+      "label": "Feature highlight \u2014 demolition detected + merged"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_01142.jpg",
+      "timestamp_sec": 1142,
+      "clip_start": 1137,
+      "clip_end": 1147,
+      "label": "Feature highlight \u2014 demolition detected"
+    },
+    {
+      "type": "DEMOLITION",
+      "frame": "frame_01161.jpg",
+      "timestamp_sec": 1161,
+      "clip_start": 1156,
+      "clip_end": 1169,
+      "label": "Feature highlight \u2014 demolition detected + merged"
+    }
+  ],
+  "standard": [
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00013.jpg",
+      "timestamp_sec": 13,
+      "clip_start": 8,
+      "clip_end": 18,
+      "team": "orange",
+      "orange_score": 1,
+      "blue_score": 0,
+      "game": 1,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00100.jpg",
+      "timestamp_sec": 100,
+      "clip_start": 95,
+      "clip_end": 105,
+      "team": "orange",
+      "orange_score": 2,
+      "blue_score": 0,
+      "game": 1,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00116.jpg",
+      "timestamp_sec": 116,
+      "clip_start": 111,
+      "clip_end": 121,
+      "team": "orange",
+      "orange_score": 3,
+      "blue_score": 0,
+      "game": 1,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00250.jpg",
+      "timestamp_sec": 250,
+      "clip_start": 245,
+      "clip_end": 255,
+      "team": "blue",
+      "orange_score": 3,
+      "blue_score": 3,
+      "game": 1,
+      "label": "Standard highlight \u2014 blue goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00273.jpg",
+      "timestamp_sec": 273,
+      "clip_start": 268,
+      "clip_end": 278,
+      "team": "orange",
+      "orange_score": 4,
+      "blue_score": 3,
+      "game": 1,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00298.jpg",
+      "timestamp_sec": 298,
+      "clip_start": 293,
+      "clip_end": 303,
+      "team": "orange",
+      "orange_score": 5,
+      "blue_score": 3,
+      "game": 1,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00429.jpg",
+      "timestamp_sec": 429,
+      "clip_start": 424,
+      "clip_end": 434,
+      "team": "orange",
+      "orange_score": 1,
+      "blue_score": 0,
+      "game": 2,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00473.jpg",
+      "timestamp_sec": 473,
+      "clip_start": 468,
+      "clip_end": 478,
+      "team": "orange",
+      "orange_score": 2,
+      "blue_score": 0,
+      "game": 2,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00534.jpg",
+      "timestamp_sec": 534,
+      "clip_start": 529,
+      "clip_end": 539,
+      "team": "orange",
+      "orange_score": 3,
+      "blue_score": 0,
+      "game": 2,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00556.jpg",
+      "timestamp_sec": 556,
+      "clip_start": 551,
+      "clip_end": 561,
+      "team": "orange",
+      "orange_score": 4,
+      "blue_score": 0,
+      "game": 2,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00612.jpg",
+      "timestamp_sec": 612,
+      "clip_start": 607,
+      "clip_end": 617,
+      "team": "orange",
+      "orange_score": 5,
+      "blue_score": 0,
+      "game": 2,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00686.jpg",
+      "timestamp_sec": 686,
+      "clip_start": 681,
+      "clip_end": 691,
+      "team": "orange",
+      "orange_score": 1,
+      "blue_score": 0,
+      "game": 3,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00713.jpg",
+      "timestamp_sec": 713,
+      "clip_start": 708,
+      "clip_end": 718,
+      "team": "orange",
+      "orange_score": 2,
+      "blue_score": 0,
+      "game": 3,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00878.jpg",
+      "timestamp_sec": 878,
+      "clip_start": 873,
+      "clip_end": 883,
+      "team": "orange",
+      "orange_score": 1,
+      "blue_score": 0,
+      "game": 4,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00917.jpg",
+      "timestamp_sec": 917,
+      "clip_start": 912,
+      "clip_end": 922,
+      "team": "orange",
+      "orange_score": 2,
+      "blue_score": 0,
+      "game": 4,
+      "label": "Standard highlight \u2014 orange goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_00954.jpg",
+      "timestamp_sec": 954,
+      "clip_start": 949,
+      "clip_end": 959,
+      "team": "blue",
+      "orange_score": 2,
+      "blue_score": 1,
+      "game": 4,
+      "label": "Standard highlight \u2014 blue goal, no explosion detected"
+    },
+    {
+      "type": "STANDARD_GOAL",
+      "frame": "frame_01027.jpg",
+      "timestamp_sec": 1027,
+      "clip_start": 1022,
+      "clip_end": 1032,
+      "team": "blue",
+      "orange_score": 2,
+      "blue_score": 2,
+      "game": 4,
+      "label": "Standard highlight \u2014 blue goal, no explosion detected"
+    }
+  ]
+}

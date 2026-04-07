@@ -67,5 +67,5 @@ Digits are processed through a specific pipeline to maximize OCR accuracy:
 
 ---
 
-**Author**: Sanjeev Krishna S.  
+**Author**: Sanjeev Krishna S. ,Krishna,Shiv,somashekar s.s 
 **Institution**: Shiv Nadar University, Chennai
